@@ -61,5 +61,3 @@ Contributions are welcome. Please fork the repository, make your changes, and su
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this template to fit your project's specifics and add any additional information relevant to your repository.
